@@ -22,11 +22,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Saba's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
 
 ### 🌐 Connect with me
 [LinkedIn](https://www.linkedin.com/in/seba-ibraheem-488b0b295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
